@@ -1,0 +1,4 @@
+movie_comment.py是前七个步骤按照书中的建模和验证
+
+mycomment.ipynb是测试新的评论的文件，用Jupyter notebook运行
+mycomment.py也是测试新的评论的,可用pycharm等运行
