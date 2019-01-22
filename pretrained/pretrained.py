@@ -171,7 +171,7 @@ model.save_weights('pre_trained_glove_model.h5')
 # In[13]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib.pyplot as plt
 acc = history.history['acc']
 val_acc = history.history['val_acc']
