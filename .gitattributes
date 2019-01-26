@@ -1,0 +1,4 @@
+*.cc linguist-language=python
+*.py linguist-language=python
+*.c linguist-language=python
+*.h linguist-language=python
